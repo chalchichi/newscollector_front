@@ -38,6 +38,7 @@ class App extends Component {
 render() {
 return (
 <div>
+<a href = "http://localhost:8080/oauth2/authorization/google">login</a>
 <Table>
 <TableHead>
 <TableRow>
